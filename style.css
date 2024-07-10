@@ -153,12 +153,10 @@ body, html {
         text-align: left;
     }
     .about img {
-        margin-right: 10px;
+        margin-right: 20px;
         margin-bottom: 0;
-        max-width: 370px;
-        border-radius: 10px;
-        margin-bottom: 20px;
     }
+    
 }
 .pricing {
     padding: 60px 20px;
